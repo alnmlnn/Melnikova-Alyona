@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/alnmlnn/Melnikova-Alyona/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alnmlnn/Melnikova-Alyona/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# [Отчет по практике] (https://docs.google.com/document/d/1gElgGSK2FpOzb4GJFAgShU3wWXRhRQwY1cJla5BsP3s/edit?usp=sharing)
+# [Задания на практику] (https://docs.google.com/document/d/1wrmF-7PfcoUDDh2FN8xA6tWU6ZR8kjja7kBWt-ycCJM/edit?usp=sharing)
+## ИСР
+### [Задание 1.1](https://docs.google.com/document/d/1KkebiFhtIG_TAScUp82ZbNEFMY4K0gR1lZHd7iNml8Q/edit?usp=sharing)
+### [Задание 1.2](https://drive.google.com/file/d/1kNBa6BSOV79ze16E3JWje_VC_5zJ-lHW/view?usp=sharing) 
+### [Задание 1.3](https://docs.google.com/document/d/1BZMwk9Vl5_39w0H0lQuyizLvfnozMI0C9cKpntxg4dY/edit?usp=sharing)
+### [Задание 1.4](https://docs.google.com/document/d/1FogDMeo-M-DRygppYp341_t5QNxjM8q_8rlZ6zgnWn4/edit?usp=sharing)
+### [Задание 1.5](https://docs.google.com/document/d/12T2s0grEUQbABx1tiUc4sz9XaZ_kmkaKLJudfHWTf0o/edit?usp=sharing)
+### [Задание 1.6](https://docs.google.com/document/d/15gGbKW5x-3piTb6k22uOhtspdVjHeKyGy-tAd5gdg-c/edit?usp=sharing)
+### [Задание 1.7](https://docs.google.com/document/d/1iYkyChEXH6QCV8kwOczleQMnSP8EDXtHhWlqw4pJYEE/edit?usp=sharing)
+### [Задание 1.8](https://docs.google.com/document/d/10pWE0sX0EM42lA9sHjUCFlqUE-JDPzJVd8oFd47IiqU/edit?usp=sharing)
+### [Задание 1.9](https://docs.google.com/document/d/1yLuDQ5cOUsMLuyNc01mIijNhinrj1wctze8cwdUFlLU/edit?usp=sharing)
+### [Задание 1.10](https://docs.google.com/document/d/1IrStuU_2-ts1xksguvmZRWexg5a4AmFM6AzD8JFD8g8/edit?usp=sharing)
+### [Задание 1.11](https://drive.google.com/file/d/1luWqkzZDuEon4QM4KDWdmK4bLa6gEOQR/view?usp=sharing)
+## ВСР
+### [Задание 2.1](https://drive.google.com/file/d/1h1JsSrjWNR6jUAIeCJpyALSQaRUDTDcZ/view?usp=sharing)
+### [Задание 2.2](https://docs.google.com/document/d/1kzAfh3iv7GSzQTUqg4wFdCx8OsGKs08iAPSl5V4UeEA/edit?usp=sharing)
+### [Задание 2.3](https://docs.google.com/document/d/1XNUs4nZT3BOXy4k6pPLYBEjBZwVp-TgX5qca9otZobU/edit?usp=sharing)
+### [Задание 2.4](https://docs.google.com/document/d/1zsj8AQMFgqFrI1b4HofzkGbrKJcXSMy0ZbGOgxYggow/edit?usp=sharing)
